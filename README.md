@@ -28,24 +28,24 @@ Using the cleaned data, data was extracted using SQL and numerious functions wer
 
 Here are some examples that shows data being extracted from the dataset using SQL: 
 
-![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/e0efa5bb-14cb-41fb-a25f-ae176a94b0c2)
+![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/e0efa5bb-14cb-41fb-a25f-ae176a94b0c2) 
 
-The results shows the official languages above 50% which ends with 'i' in the countrylanguage table
+The results above shows the official languages above 50% which ends with 'i' in the countrylanguage table
 
-![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/6e0e221e-bdfa-4117-9f75-f18277ef785f)
+![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/6e0e221e-bdfa-4117-9f75-f18277ef785f) 
 
-The image represents countries in the 'Federal Republic' government form in the country table
+The image above represents countries in the 'Federal Republic' government form in the country table
 
-![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/82ef72ad-cbda-409d-ab5c-e35481f31a4c)
+![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/82ef72ad-cbda-409d-ab5c-e35481f31a4c) 
 
-The results provide information on the average life expectancy in the country table. The <b><i> ROUND() </i></b> keyboard was used to round the outcome to 2 decimal places. 
+The results above provide information on the average life expectancy in the country table. The <b><i> ROUND() </i></b> keyboard was used to round the outcome to 2 decimal places. 
 
-![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/72d11905-b8b9-4e83-bfbb-7c16bc87b2bf)
+![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/72d11905-b8b9-4e83-bfbb-7c16bc87b2bf) 
 
-The code shows all the common cities in the 'city' and 'countrylanguage' tables which are 80% and above. To obtain this information, the <b><i> INNER JOIN </i></b> function was used to find matching rows in the two tables.
+The code above shows all the common cities in the 'city' and 'countrylanguage' tables which are 80% and above. To obtain this information, the <b><i> INNER JOIN </i></b> function was used to find matching rows in the two tables.
 
-![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/49f88cd4-6399-4cfc-9356-9ea1fb310fa4)
+![image](https://github.com/TharsikaSri/Databases-SQL-WorldDS/assets/150933187/49f88cd4-6399-4cfc-9356-9ea1fb310fa4) 
 
-The outcome represents the values of indepYears that has more than 70 LifeExpectancy on average. To extract the data, an aggregate function was used which meant that the <b><i> WHERE() </i></b> clause cannot be used to filter aggregate functions as groups have their own filtering keyword. This keyword is <b><i> HAVING() </i></b> which is used to find the average life expectancy which is over 70. 
+The outcome above represents the values of indepYears that has more than 70 LifeExpectancy on average. To extract the data, an aggregate function was used which meant that the <b><i> WHERE() </i></b> clause cannot be used to filter aggregate functions as groups have their own filtering keyword. This keyword is <b><i> HAVING() </i></b> which is used to find the average life expectancy which is over 70. 
 
 If you like this, please give it a ⭐ star.
