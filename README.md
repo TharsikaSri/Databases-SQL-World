@@ -6,11 +6,11 @@ The objective of the World Dataset Analysis project is to preform an in-dept ana
 <div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
 The dataset used is called "Dataset- world db.sql It consists of 3 tables called city, country and countrylanguage. Each table provides valuable information such as the countries in the world, cities, the country code, district, continent, region, population, GNP, Government Form, languages spoken, whether it's an official language and so on.
 
-<div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div>
-- Dataset- world db.sql
-- MySQL Project
-- README.md
-- TS Documentation.pdf
+<div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div> 
+- Dataset- world db.sql -> this file consists a SQL script with the database <br>
+- MySQL Project- > this file contains an SQL script with all the SQL queries <br>
+- README.md -> this file provides information on this project <br>
+- TS Documentation.pdf -> this file  contains a detailed documentation of this project </div>
 
 
 <div align="center"> <h3 align="center"> 🔑 Key Tools ⚙️ </h3> </div>
