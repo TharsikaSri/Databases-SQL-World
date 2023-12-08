@@ -8,7 +8,7 @@ The dataset used is called "Dataset- world db.sql It consists of 3 tables called
 
 <div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div>
 - Dataset- world db.sql
-- My SQL Project
+- MySQL Project
 - README.md
 - TS Documentation.pdf
 
@@ -48,5 +48,4 @@ The code shows all the common cities in the 'city' and 'countrylanguage' tables 
 
 The outcome represents the values of indepYears that has more than 70 LifeExpectancy on average. To extract the data, an aggregate function was used which meant that the <b><i> WHERE() </i></b> clause cannot be used to filter aggregate functions as groups have their own filtering keyword. This keyword is <b><i> HAVING() </i></b> which is used to find the average life expectancy which is over 70. 
 
-
-
+If you like this, please give it a ⭐ star.
