@@ -1,7 +1,7 @@
 <div align="center"> <h2 align="center"> Greetings to the World Dataset Analysis project. Inside this repositiory, you'll discover a documentation and code designed for a comprehensive analysis of the World dataset. The tools I have used for this project are Access and MySQL. </h2> </div>
 
 <div align="center"> <h3 align="center"> 🎯 Goals 🎯 </h3> </div>
-The objective of the World Dataset Analysis project is to preform an in-dept analysis of a the World dataset. The objective is to uncover valuable insights about the characteristics and explore trends and patterns within the data/
+The objective of the World Dataset Analysis project is to perform an in-dept analysis of a the World dataset. The objective is to uncover valuable insights about the characteristics and explore trends and patterns within the data/
 
 <div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
 The dataset used is called "Dataset- world db.sql It consists of 3 tables called city, country and countrylanguage. Each table provides valuable information such as the countries in the world, cities, the country code, district, continent, region, population, GNP, Government Form, languages spoken, whether it's an official language and so on.
