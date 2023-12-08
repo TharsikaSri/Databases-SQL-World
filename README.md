@@ -6,6 +6,7 @@ Creating a database and querying using SQL with the Wealth of Nation Dataset
 Greetings to the World Dataset Analysis project. Inside this repositiory, you'll discover documentation and code designed for a comprehensive analysis of the World dataset. The tools used for this project are Access and MySQL.
 
 <div align="center"> <h3 align="center"> 🎯 </h3> </div>
+
 Databse
 1) Create a database
 2) Create EER diagram
