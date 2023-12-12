@@ -1,6 +1,6 @@
 <div align="center"> <h2 align="center"> Greetings to the World Dataset Analysis project. Inside this repositiory, you'll discover a documentation and code designed for a comprehensive analysis of the World dataset. The tools I have used for this project are Access and MySQL. </h2> </div>
 
-<div align="center"> <h3 align="center"> 🎯 Goals 🎯 </h3> </div>
+<div align="center"> <h3 align="center"> 🎯 Goals 🎯 </h3> </div> 
 The objective of the World Dataset Analysis project is to perform an in-dept analysis of a the World dataset. The goal is to uncover valuable insights about the characteristics and explore trends and patterns within the data.
 
 <div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
